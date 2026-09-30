@@ -27,7 +27,7 @@
                    │ Radar Data Simulator│
                    │ / Sensor            │
                    └─────────────────────┘
-#layer1 embedded firmware
+# layer1 embedded firmware
 
 ESP32
   ↓
@@ -37,7 +37,7 @@ UART/I2C/SPI
   ↓
 Sensor interface
 
-#layer 2 linux
+# layer 2 linux
 
 Linux
  ↓
@@ -49,7 +49,7 @@ Logs
  ↓
 Process management
 
-#layer 3 automation
+# layer 3 automation
 Python
  ↓
 pytest
@@ -64,8 +64,8 @@ Report
 
 
 
-#phase 1
-#Phase 1 — C + Embedded C
+# phase 1
+# Phase 1 — C + Embedded C
 2–3 weeks
 
 C fundamentals
